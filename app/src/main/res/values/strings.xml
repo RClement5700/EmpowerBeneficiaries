@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmpowerBeneficiaries</string>
+    <string name="main_activity_title">Empower Beneficiaries</string>
+    <string name="label_name">Name:</string>
+    <string name="label_bene_type">Benefit Type:</string>
+    <string name="label_designation">Designation:</string>
+    <string name="label_ssn">SSN:</string>
+    <string name="label_dob">DOB:</string>
+    <string name="label_phone_number">Phone:</string>
+    <string name="label_address">Address:</string>
+</resources>
